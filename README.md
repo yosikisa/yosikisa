@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosikisa
 - 👀 I’m interested in ANIME
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#,javascript,react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
